@@ -1,0 +1,28 @@
+h1{
+  
+  text-align: center;
+  
+}
+
+ .div {
+    
+    margin: 5px;
+    border: 2px outset red;
+    background-color: lightblue;
+    text-align: center;
+  }
+
+  .div1 {
+    margin: 5px; 
+    border: 2px outset red;
+    background-color: lightgreen;
+    text-align: center;
+  }
+
+  .divR { 
+    margin: 5px;
+    border: 2px outset red;
+    background-color: lightblue;
+    text-align: center;
+  }
+
